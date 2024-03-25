@@ -1,5 +1,5 @@
 # Murine-tumour-dynamics-DeepTCR-2022
-DeepTCR scripts for supervised clustering of TCRs
+DeepTCR scripts for classification of TCRs
 
 ## Citation
 Kidman J et al., 2024, Oncoimmunology, Manuscript under review.
