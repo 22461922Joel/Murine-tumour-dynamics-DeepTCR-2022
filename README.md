@@ -11,7 +11,7 @@ These scripts were adapted from [DeepTCR](sidhomj.github.io/deeptcr/) and are ge
 Outputs generated were used in manuscript (Kidman J, 2024, Oncoimmunology, Manuscript under review) for publication. Refer to publication for full description of methods and results.
 
 ## Installation
-Refer to [DeepTCR] (sidhomj.github.io/deeptcr/) for complete install information.
+Refer to [DeepTCR](sidhomj.github.io/deeptcr/) for complete install information.
 See requirements.txt to see package versions used to analyse this dataset.
 
 ## Pipeline
