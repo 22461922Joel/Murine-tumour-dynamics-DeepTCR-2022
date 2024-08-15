@@ -2,7 +2,7 @@
 DeepTCR scripts for classification of TCRs
 
 ## Citation
-Kidman J et al., 2024, Oncoimmunology, Manuscript under review.
+Kidman J et al., 2024, Oncoimmunology, https://doi.org/10.1080/2162402X.2024.2345859
 Sequencing data available GSE222575. Data will become publicly available once manuscript is published. Links will be updated following publication.
 
 ## Introduction
@@ -25,7 +25,7 @@ dynamic_signatures.py used to plot the weighted proportion of the predictive TCR
 vis_corr_models.py used to correlate the probablity of each TCR being model and response predictive. 
 
 ## Figure breakdown
-The below specifies which script was responsible for generating each figure in the manuscript (Kidman J et al., 2024 Oncoimmunology, under review).
+The below specifies which script was responsible for generating each figure in the manuscript (Kidman J et al., 2024 Oncoimmunology).
 Figure S6A - model_classifier.py and response_classifier.py
 Figure 4D-G - dynamic_signatures.py
 Figure S6B - inf_model.py
