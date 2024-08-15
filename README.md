@@ -2,8 +2,8 @@
 DeepTCR scripts for classification of TCRs
 
 ## Citation
-Kidman J et al., 2024, Oncoimmunology, https://doi.org/10.1080/2162402X.2024.2345859
-Sequencing data available GSE222575. Data will become publicly available once manuscript is published. Links will be updated following publication.
+[Kidman J et al., Oncoimmunology, 2024](https://doi.org/10.1080/2162402X.2024.2345859)
+Sequencing data available [GSE222575](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE222575)
 
 ## Introduction
 These scripts were adapted from [DeepTCR](sidhomj.github.io/deeptcr/) and are generated to suit bulk TCRB data from murine cancer models with response to immune checkpoint blockade. 
